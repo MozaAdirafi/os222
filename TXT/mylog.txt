@@ -6,3 +6,5 @@ ZCZC W00 15 L01 SCELE/Discord related
 ZCZC W00 90 L02 ZOOM meetings related
 ZCZC W00 55 L03 watching Youtube
 ZCZC W00 10 L04 GitHub related
+ZCZC W00 40 L05 Reading Slides
+ZCZC W00 10 L06 Attempting the quiz

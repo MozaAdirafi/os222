@@ -3,12 +3,6 @@ permalink: TIPS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/arkanalexei.tar.xz) ---
-[GITHUB]({{ site.githublink }})
 <br>
 <hr>
 

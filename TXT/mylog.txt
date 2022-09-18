@@ -2,19 +2,40 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-ZCZC W00 15 L01 SCELE/Discord related
-ZCZC W00 90 L02 ZOOM meetings related
-ZCZC W00 55 L03 watching Youtube
-ZCZC W00 10 L04 GitHub related
-ZCZC W00 40 L05 Reading Slides
-ZCZC W00 10 L06 Attempting the quiz
-ZCZC W01 120 L06 Working on Week 1 Assignment
-ZCZC W01 100 OS class
-ZCZC W01 50 L07 Reading Slides
-ZCZC W01 15 L08 Attempting the weekly quiz
-ZCZC W01 100 Os Class
-ZCZC W01 120 Working on Week 1 Assignment
-ZCZC W01 30 Github Related
-ZCZC W01 50 Discord Related
-ZCZC W01 120 Working on Week 1 Assignment
-ZCZC W01 120 Vscode Related
+ZCZC W00 15  L01 SCELE/Discord related
+ZCZC W00 90  L02 ZOOM meetings related
+ZCZC W00 55  L32 watching Youtube
+ZCZC W00 10  L04 GitHub related
+ZCZC W00 40  L05 Reading Slides
+ZCZC W00 10  L05 Attempting the quiz
+ZCZC W01 120 L11 Working on Week 1 Assignment
+ZCZC W01 100 L02 OS Zoom Class
+ZCZC W01 50  L05 Reading Slides
+ZCZC W01 15  L05 Attempting the weekly quiz
+ZCZC W01 100 L02 Os Class
+ZCZC W01 120 L11 Working on Week 1 Assignment
+ZCZC W01 30  L03 Github Related
+ZCZC W01 50  L01 Discord Related
+ZCZC W01 120 L11 Working on Week 1 Assignment
+ZCZC W01 120 L71 Vscode Related
+ZCZC W02 100 L02 Os Zoom Class
+ZCZC W02 60  L05 Reading Week 02 Slides
+ZCZC W02 40  L12 Attempting the Week 02 Assignment
+ZCZC W02 120 L02 Zoom Related
+ZCZC W02 100 L01 Discord Related
+ZCZC W02 80  L71 Working on PBP's Assignment
+ZCZC W02 180 L82 Studyin in a Coding Course
+ZCZC W02 40  L03 Github Related
+ZCZC W02 80  L70 Studying for Other Courses
+ZCZC W02 100 L80 Watching Youtube
+ZCZC W02 120 L84 Relax
+ZCZC W02 70  L12 Continuing Week 02 Assignment
+ZCZC W02 100 L12 Fixing Errors on the Assignment
+ZCZC W02 100 L84 Relax
+ZCZC W02 100 L71 Working on other courses Assignment
+ZCZC W02 60  L88 Exercise
+ZCZC W02 40  L64 Helping a Friend
+ZCZC W02 30  L03 Github commit,push,pull related
+ZCZC W02 30  L41 mylog related
+
+

@@ -2,17 +2,16 @@
 permalink: TIPS/
 ---
 <br><br>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>
 [HOME](https://mozaadirafi.github.io/os222/) ---
 [LINKS](https://mozaadirafi.github.io/os222/LINKS/) ---
 [TIPS](https://mozaadirafi.github.io/os222/TIPS/) ---
 [LOG](https://mozaadirafi.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](https://os.vlsm.org/Log/MozaAdirafi.tar.bz2.txt) ---
 [Github](https://github.com/MozaAdirafi)
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
-<br><br>
 <br>
 <hr>
-
 # TIPS
 
 1. [One](https://en.wikipedia.org/wiki/1)<br>

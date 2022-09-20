@@ -1,6 +1,6 @@
 
 ---
-permalink: LINKS/
+permalink: /LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By Moza Adirafi Satria Jaka</span>
 <br><br>

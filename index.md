@@ -11,7 +11,7 @@ Hello , My name is Moza Adirafi Satria Jaka. This is my Operating Systems 2022-3
 [TIPS](https://mozaadirafi.github.io/os222/TIPS/) ---
 [LOG](https://mozaadirafi.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](https://os.vlsm.org/Log/MozaAdirafi.tar.bz2.txt) ---
-[Github](https://github.com/MozaAdirafi) ---
+[Github](https://github.com/MozaAdirafi)
 <br>
 <hr>
 <br>

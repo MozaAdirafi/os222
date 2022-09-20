@@ -3,11 +3,11 @@ permalink: LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By Moza Adirafi Satria Jaka</span>
 <br><br>
-[HOME](https://github.com/MozaAdirafi/os222) --- 
-[LINKS](https://github.com/MozaAdirafi/os222/blob/master/links.md) --- 
-[TIPS](https://github.com/MozaAdirafi/os222/blob/master/tips.md) ---
-[LOG](https://github.com/MozaAdirafi/os222/blob/master/TXT/mylog.txt) ---
-[TARBALL](https://github.com/MozaAdirafi/os222/blob/master/TXT/myW02.tar.bz2.asc) ---
+[HOME](https://mozaadirafi.github.io/os222/) --- 
+[LINKS](https://mozaadirafi.github.io/os222/LINKS/) --- 
+[TIPS](https://mozaadirafi.github.io/os222/TIPS/) ---
+[LOG](https://mozaadirafi.github.io/os222/TXT/mylog.txt) ---
+[TARBALL](https://os.vlsm.org/Log/MozaAdirafi.tar.bz2.txt) ---
 [Github](https://github.com/MozaAdirafi)
 <br>
 <hr>

@@ -26,6 +26,12 @@ permalink: LINKS/
 - [Disk Commands for Linux](https://www.binarytides.com/linux-command-check-disk-partitions/) - Some neat disk commands to try on linux. Useful contents for disk commands on linux
 - [Essential Linux Commands](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/) - Important commands on linux.
 - [Linux Starter Course](https://training.linuxfoundation.org/training/introduction-to-linux/) - Helpful course for linux
+
+## W04
+- [Linux Scripts](https://docs.csc.fi/support/tutorials/env-guide/linux-bash-scripts/) - An overview of explanation about scripts in linux and how to use them
+- [Caching](https://www.tutorialspoint.com/What-is-caching) - An explanation about caching
+- [Example of scripts](https://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/internal.html) - Examples of scripts to try for tasks
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

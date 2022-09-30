@@ -1,6 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode + Description List
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 15  L01 SCELE/Discord related
 ZCZC W00 90  L02 ZOOM meetings related
@@ -45,12 +45,30 @@ ZCZC W03 30  L05 Attempting the quiz
 ZCZC W03 140 L82 Studying in a Coding Course
 ZCZC W03 70  L80 Watching Youtube
 ZCZC W03 80  L84 Relax
-ZCZC W03 80  L12 Continuing Week 03 Assignment
+ZCZC W03 80  L13 Continuing Week 03 Assignment
 ZCZC W03 100 L71 Working on other course's Assignment
 ZCZC W03 30  L12 Fixing Errors on the Assignment
 ZCZC W03 40  L88 Exercise
 ZCZC W03 80  L01 Discord Related
 ZCZC W03 80  L05 Reading Slides
-ZCZC W03 70  L12 Finishing W03 Assignment
+ZCZC W03 70  L13 Finishing W03 Assignment
 ZCZC W03 30  L41 mylog related
 ZCZC W03 30  L03 Github commit,push,pull related
+ZCZC W04 100 L02 Os Zoom Class
+ZCZC WO4 30  L03 Github Related
+ZCZC W04 90  L14 Working on Week 4 Assignment
+ZCZC W04 60  L01 Discord Related
+ZCZC W04 180 L71 Working on other course Assignment
+ZCZC W04 100 L71 Vscode Related
+ZCZC W04 70  L05 Reading Slides
+ZCZC W04 30  L05 Attempting the quiz
+ZCZC W04 20  L12 Fixing Errors on the Assignment
+ZCZC W04 100 L84 Relax
+ZCZC W04 40  L14 Continuing Week 04 Assignment
+ZCZC W04 60  L70 Studying for Other Courses
+ZCZC W04 30  L14 Finishing W04 Assignment
+ZCZC W04 30  L41 mylog related
+ZCZC W04 20  L03 Github commit,push,pull related
+
+
+

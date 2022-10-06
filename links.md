@@ -32,8 +32,15 @@ permalink: LINKS/
 - [Caching](https://www.tutorialspoint.com/What-is-caching) - An explanation about caching
 - [Example of scripts](https://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/internal.html) - Examples of scripts to try for tasks
 
+## W05
+- [Bash Scripts](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php) - An explanation about bash scripts and what they do.
+- [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) - A brief explanation about virtual memory
+- [Virtual Memory](https://www.javatpoint.com/os-virtual-memory) - Another explanation about virtual memory
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
+
+

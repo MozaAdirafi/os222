@@ -62,13 +62,27 @@ ZCZC W04 180 L71 Working on other course Assignment
 ZCZC W04 100 L71 Vscode Related
 ZCZC W04 70  L05 Reading Slides
 ZCZC W04 30  L05 Attempting the quiz
-ZCZC W04 20  L12 Fixing Errors on the Assignment
+ZCZC W04 20  L14 Fixing Errors on the Assignment
 ZCZC W04 100 L84 Relax
 ZCZC W04 40  L14 Continuing Week 04 Assignment
 ZCZC W04 60  L70 Studying for Other Courses
 ZCZC W04 30  L14 Finishing W04 Assignment
 ZCZC W04 30  L41 mylog related
 ZCZC W04 20  L03 Github commit,push,pull related
-
-
-
+ZCZC W05 100 L02 OS Zoom Class
+ZCZC W05 40  L05 Reading Week 05 Slides
+ZCZC W05 30  L03 Github Related
+ZCZC W05 120 L71 Working on other courses Assignment
+ZCZC W05 40  L71 Vscode Related
+ZCZC W05 70  L01 Discord Related
+ZCZC W05 10  L05 Attempting the quiz
+ZCZC W05 70  L15 Working on Week 5 Assignment
+ZCZC W05 30  L15 Fixing Errors on the Assignment
+ZCZC W05 100 L02 Zoom Related
+ZCZC W05 80  L84 Relax
+ZCZC W05 120 L82 Finishing my coding course
+ZCZC W05 30  L64 Helping a Friend
+ZCZC W05 20  L15 Finishing W04 Assignment
+ZCZC W05 30  L05 Working on the pop quiz
+ZCZC W05 20  L41 mylog related
+ZCZC W05 25  L03 Github commit,push,pull related

@@ -86,3 +86,25 @@ ZCZC W05 20  L15 Finishing W04 Assignment
 ZCZC W05 30  L05 Working on the pop quiz
 ZCZC W05 20  L41 mylog related
 ZCZC W05 25  L03 Github commit,push,pull related
+ZCZC W06 100 L02 OS Zoom Class
+ZCZC W06 100 L00 Offline class
+ZCZC W06 40  L05 Studying quiz related
+ZCZC W06 40  L05 Working on previous final term problems
+ZCZC W06 30  L01 SCELE related
+ZCZC W06 80  L84 Relax
+ZCZC W06 30  L03 Github Related
+ZCZC W06 40  L71 Vscode Related
+ZCZC W06 70  L01 Discord Related
+ZCZC W06 10  L05 Attempting the quiz
+ZCZC W06 70  L88 Workout/Sports.
+ZCZC W06 80  L71 Working on other courses Assignment
+ZCZC W06 100 L02 Zoom Related
+ZCZC W06 50  L16 Working on Assignment #06
+ZCZC W06 10  L16 Exporting virtual box
+ZCZC W06 3   L16 Renamin debian virtual guest 
+ZCZC W06 40  L06 GSGS related
+ZCZC W06 15  L06 Finding out how to update kernel
+ZCZC W06 20  L16 Finishing W06 Assignment
+ZCZC W06 30  L05 Working on the pop quiz
+ZCZC W06 20  L41 Mylog related
+ZCZC W06 25  L03 Github commit,push,pull related

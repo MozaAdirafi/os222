@@ -12,7 +12,7 @@ permalink: LINKS/
 <br>
 <hr>
 
-# IMPORTAT LINKS
+# IMPORTANT LINKS
 
 ## W01
 - [C Language Cheat Sheet](https://developerinsider.co/c-programming-language-cheat-sheet/) - List of C languages syntax and methods
@@ -37,6 +37,13 @@ permalink: LINKS/
 - [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) - A brief explanation about virtual memory
 - [Virtual Memory](https://www.javatpoint.com/os-virtual-memory) - Another explanation about virtual memory
 
+## W06
+- [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) - explanation regarding the fork() function in C.
+- [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY) - The video explains the functions of the fork and exec commands as well as examples when they are executed.
+- [Fork System Call in Linux](https://linuxhint.com/fork-system-call-linux/) - This article describes forks in Linux system calls.
+- [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) - a brief explanation of fork in c
+- [Thread vs Process](https://www.guru99.com/difference-between-process-and-thread.html) - A simple article explaining about the difference of thread and process
+- [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.) - This link explains in general what is concurrency in the Operating System
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

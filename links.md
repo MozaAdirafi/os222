@@ -44,6 +44,14 @@ permalink: LINKS/
 - [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) - a brief explanation of fork in c
 - [Thread vs Process](https://www.guru99.com/difference-between-process-and-thread.html) - A simple article explaining about the difference of thread and process
 - [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.) - This link explains in general what is concurrency in the Operating System
+
+## W07
+- [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/) - explanation about critical section in synchronization
+- [Deadlock in Operating System](https://www.youtube.com/watch?v=onkWXaXAgbY) - An introduction of deadlock on operating system
+- [Mutex & Semaphore](https://www.youtube.com/watch?v=DvF3AsTglUU) - Video explaining about the differences of mutex and semaphore
+- [Process Synchronization in c++](https://www.tutorialspoint.com/process-synchronization-in-c-cplusplus) - Brief explanation of process synchronization in C++
+- [Concurrency Synchronization](https://go101.org/article/concurrent-synchronization-more.html) - Important process sync in programming
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

@@ -52,6 +52,12 @@ permalink: LINKS/
 - [Process Synchronization in c++](https://www.tutorialspoint.com/process-synchronization-in-c-cplusplus) - Brief explanation of process synchronization in C++
 - [Concurrency Synchronization](https://go101.org/article/concurrent-synchronization-more.html) - Important process sync in programming
 
+## W08
+- [Process Scheduling in Linux](https://www.scaler.com/topics/operating-system/process-scheduling/) - explanation about scheduling on linux
+- [Linux From Scratch Indonesian Version](https://www.youtube.com/watch?v=5m3jE0RUbUk&list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP) - A video explaining linux from scratch in Indonesian
+- [Linux From Scratch Version 11](https://www.linuxfromscratch.org/lfs/view/11.0/) - Step by step of linux from scratch
+- [Linux From Scratch - Wikipedia](https://id.wikipedia.org/wiki/Linux_From_Scratch) - Brief summary about Linux From Scratch
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

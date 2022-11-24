@@ -148,3 +148,24 @@ ZCZC W08 240 L18 Working on Linux From Scratch on LFS
 ZCZC W08 30  L05 Working on the pop quiz
 ZCZC W08 20  L41 Mylog related
 ZCZC W08 25  L03 Github commit,push,pull related
+ZCZC W09 100 L02 OS Zoom Class
+ZCZC W09 100 L00 Offline class
+ZCZC W09 20  L03 Github Related
+ZCZC W09 30  L71 Vscode Related
+ZCZC W09 50  L01 Discord Related
+ZCZC W09 80  L05 Studying quiz related
+ZCZC W09 30  L05 Working on previous final term problems
+ZCZC W09 40  L01 SCELE related
+ZCZC W09 90  L84 Relax
+ZCZC W09 90  L80 Watching the world cup
+ZCZC W09 10  L05 Attempting the quiz
+ZCZC W09 70  L88 Workout/Sports.
+ZCZC W09 80  L71 Working on other courses Assignment
+ZCZC W09 100 L02 Zoom Related
+ZCZC W09 50  L19 Working on Assignment #09
+ZCZC W09 60  L19 Watching the linux from scratch video
+ZCZC W09 180 L19 Linux from scratch step by step 
+ZCZC W09 30  L19 Finishing W09 Assignment
+ZCZC W09 30  L05 Working on the pop quiz
+ZCZC W09 20  L41 Mylog related
+ZCZC W09 25  L03 Github commit,push,pull related

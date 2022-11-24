@@ -58,6 +58,12 @@ permalink: LINKS/
 - [Linux From Scratch Version 11](https://www.linuxfromscratch.org/lfs/view/11.0/) - Step by step of linux from scratch
 - [Linux From Scratch - Wikipedia](https://id.wikipedia.org/wiki/Linux_From_Scratch) - Brief summary about Linux From Scratch
 
+## W09
+- [Check Disk Space on Linux](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-how-to-check-disk-space-on-linux-from-the-command-line) - command to show disk space
+- [RAID Levels](https://www.prepressure.com/library/technology/raid) - A comprehensive article about RAID
+- [Systemd](https://www.youtube.com/watch?v=N1vgvhiyq0E) - A tutorial on systemd on youtube
+- [Embedded Linux Booting Process](https://www.youtube.com/watch?v=DV5S_ZSdK0s) - An embedded linux system
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
